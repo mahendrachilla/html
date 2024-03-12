@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image:url('https://thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg') ;
+    height: 50vh;
+    
+    
+}
+
+h1{
+    color: rgb(50, 5, 127);
+}
+
+.form{
+   
+    background-color: rgb(252, 158, 158);
+    width: 55wh;
+    padding
+    border: 2px solid green;
+    border-top-right-radius: 2px;
+    box-shadow:2px 3px greenyellow ;
+    display:inline-block;
+    opacity: 2px;
+    color: blue;
+    
+   
+}
+button{
+    background-color: aqua;
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+    background-color: blueviolet;
+}
+author{
+    background-color: brown;
+}
+publisher{
+    background-color: black;
+    color: blue;
+}
+#books{
+    display: grid;
+   grid-template-columns: repeat(3,auto);
+   gap: 10px;
+    
+}
+.book{
+    box-shadow: 3px 3px;
+    height: 150px;
+    width: 250px;
+    background-color: aqua;
+}
